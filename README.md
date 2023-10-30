@@ -1,5 +1,7 @@
 # Rocket Hackintosh - Gigabyte B760M, Core i7 14700KF and AMD RX 6700 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-B760M-AORUS-ELITE-Core-i7-14700KF-RX6600-PUBLIC/assets/23700365/75f5b1f6-31a5-4a28-8c2b-453003d334f6)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.1)
@@ -43,7 +45,7 @@
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
 
 ## How to get a copy of EFI
-- Become a HACKINTOSH VIP member on the "Universo Hackintosh" channel
+- Become a [HACKINTOSH VIP](https://www.youtube.com/channel/UCZl_huXnf8T4e0dHv5zdFlw/join) member on the "Universo Hackintosh" channel
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
