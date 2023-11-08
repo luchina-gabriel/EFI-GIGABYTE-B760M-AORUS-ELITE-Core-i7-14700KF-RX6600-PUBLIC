@@ -44,5 +44,8 @@
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
 
+## How to get a copy of EFI
+- Hire the remote installation service from Universo Hackintosh
+
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
