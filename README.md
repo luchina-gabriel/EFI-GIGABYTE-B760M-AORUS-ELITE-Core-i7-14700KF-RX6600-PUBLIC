@@ -44,8 +44,5 @@
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
 
-## How to get a copy of EFI
-- Become a [HACKINTOSH VIP](https://www.youtube.com/channel/UCZl_huXnf8T4e0dHv5zdFlw/join) member on the "Universo Hackintosh" channel
-
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
